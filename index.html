@@ -1,12 +1,23 @@
 ---
 layout: default
 ---
+{% assign my_param = site.data.sample_param %}
+{% if page.url contains '?' %}
+  {% assign url_params = page.url | split: '?' | last | split: '&' %}
+  {% for param in url_params %}
+    {% assign param_parts = param | split: '=' %}
+    {% assign param_key = param_parts[0] %}
+    {% assign param_value = param_parts[1] %}
+    {% if param_key contains 'type' %}
+      <section class="posts">
+      <ul>
+      {% for post in site.posts %}
+      {% if post.category contains param_value %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>{% endif %}
+      {% endfor %}
+      </ul>
+      </section>
+    {% endif %}
+  {% endfor %}
+{% endif %}
 
-<section class="posts">
-<ul>
-{% for post in site.posts %}
-{% if post.category contains include.category %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>{% endif %}
-{% endfor %}
-</ul>
-</section>
