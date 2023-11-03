@@ -2,20 +2,16 @@
 layout: default
 ---
 <section class="posts">
-
-  <span>url {{page.url}}</span>
-
-      <span>got url</span>
-
   {% for tag in site.tags %}
-      <span>{{ tag }}</span>
+      <ul>
+      <h4>#{{ tag }}</h4>
       {% for post in site.posts %}
       {% if post.tags contains tag %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>{% endif %}
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+      {% endif %}
       {% endfor %}
       </ul>
   {% endfor %}
-
 </section>
             
 
