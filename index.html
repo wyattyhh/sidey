@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<section class="posts">
+
 {% if page.url contains '?' %}
       <span>got url</span>
 
@@ -12,16 +14,16 @@ layout: default
     {% assign param_key = param_parts[0] %}
     {% assign param_value = param_parts[1] %}
     {% if param_key contains 'type' %}
-      <span>{{ param_key }}</span>
-      <section class="posts">
       <ul>
       {% for post in site.posts %}
       {% if post.category contains param_value %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>{% endif %}
       {% endfor %}
       </ul>
-      </section>
     {% endif %}
   {% endfor %}
 {% endif %}
+
+</section>
+            
 
