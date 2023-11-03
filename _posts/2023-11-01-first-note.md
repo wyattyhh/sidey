@@ -1,6 +1,6 @@
 ---
 layout: post
-category: life
+categories: life
 ---
 
 ## Hello Kyrene
