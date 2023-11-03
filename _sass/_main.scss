@@ -208,3 +208,12 @@ figcaption {
         display: none !important;
     }
 }
+
+.category {
+	max-height: 56px;
+	overflow: hidden;
+	transition: max-height 0.4s linear;
+	&:hover {
+		max-height: unset;
+	}
+}
