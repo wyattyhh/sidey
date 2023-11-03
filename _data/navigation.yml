@@ -1,6 +1,9 @@
 links:
 - title: Writing
   url: index.html
+- title: posts by category
+  post_list:
+    category: life
 - title: About
   url: about
 - title: Search
