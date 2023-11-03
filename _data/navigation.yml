@@ -1,12 +1,12 @@
 links:
 - title: Writing
-  url: /writen
+  url: /written
 - title: life
   post_list:
-  url: /writen/index.html?type=life
+  url: /written/index.html?type=life
 - title: About
-  url: /writen/about
+  url: /written/about
 - title: Search
-  url: /writen/search
+  url: /written/search
 - title: Rss
   url: atom.xml
