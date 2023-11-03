@@ -4,14 +4,14 @@ layout: default
 
 <section class="posts">
   {% for category in site.categories %}
-   <section class="category">
+   <div class="category">
     <h2>{{ category[0] }}</h3>
       <ul>
         {% for post in category[1] %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
         {% endfor %}
       </ul>
-   </section>
+   </div>
   {% endfor %}
 </section>           
 
