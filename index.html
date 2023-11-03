@@ -1,10 +1,13 @@
 ---
 layout: default
 ---
-{% assign my_param = site.data.sample_param %}
 {% if page.url contains '?' %}
+      <span>got url</span>
+
   {% assign url_params = page.url | split: '?' | last | split: '&' %}
   {% for param in url_params %}
+      <span>{{ param }}</span>
+  
     {% assign param_parts = param | split: '=' %}
     {% assign param_key = param_parts[0] %}
     {% assign param_value = param_parts[1] %}
