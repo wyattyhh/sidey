@@ -5,26 +5,16 @@ layout: default
 
   <span>url {{page.url}}</span>
 
-{% if page.url contains '?' %}
       <span>got url</span>
 
-  {% assign url_params = page.url | split: '?' | last | split: '&' %}
-  {% for param in url_params %}
-      <span>{{ param }}</span>
-  
-    {% assign param_parts = param | split: '=' %}
-    {% assign param_key = param_parts[0] %}
-    {% assign param_value = param_parts[1] %}
-    {% if param_key contains 'type' %}
-      <ul>
+  {% for tag in site.tags %}
+      <span>{{ tag }}</span>
       {% for post in site.posts %}
-      {% if post.category contains param_value %}
+      {% if post.tags contains tag %}
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>{% endif %}
       {% endfor %}
       </ul>
-    {% endif %}
   {% endfor %}
-{% endif %}
 
 </section>
             

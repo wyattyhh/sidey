@@ -1,9 +1,6 @@
 links:
 - title: Writing
   url: /written
-- title: life
-  post_list:
-  url: /written/index.html?type=life
 - title: About
   url: /written/about
 - title: Search
