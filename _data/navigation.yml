@@ -3,7 +3,7 @@ links:
   url: /writen
 - title: life
   post_list:
-  url: /writenindex.html?type=life
+  url: /writen/index.html?type=life
 - title: About
   url: /writen/about
 - title: Search
