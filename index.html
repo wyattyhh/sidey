@@ -4,8 +4,7 @@ layout: default
 
 <section class="posts">
   {% for category in site.categories %}
-  <div>{{category}}</div>
-   <div class="">
+   <div class="category">
     <h2>{{ category[0] }}</h3>
       <ul>
         {% for post in category[1] %}
