@@ -4,7 +4,7 @@
 	color:inherit;
 	margin:0;
 	padding:0;
-	overflow: ;
+	overflow: overlay;
 }
 
 body {
@@ -210,7 +210,29 @@ figcaption {
     }
 }
 
-* {
+::-webkit-scrollbar {
+	width: 14px;
+}
+::-webkit-scrollbar-thumb {
+	background-clip: content-box;
+	border: 4px solid transparent;
+	border-radius: 7px;
+	box-shadow: inset 0 0 0 10px;
+	background-color: transparent;
+	transition: background-color 1s ease 3s;
+	&:hover {
+		background-color: #999;
+	}
+}
+::-webkit-scrollbar-button {
+	width: 0;
+	height: 0;
+	display: none;
+}
+::-webkit-scrollbar-corner {
+	background-color: transparent;
+}
+html {
     overflow: scroll;
     overflow-x: hidden;
 }
@@ -222,6 +244,7 @@ figcaption {
 ::-webkit-scrollbar-thumb {
     background: #999;
 }
+
 
 .category {
 	height: 56px;
