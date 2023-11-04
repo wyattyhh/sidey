@@ -4,7 +4,7 @@ layout: default
 
 <section class="posts">
   {% for category in site.categories %}
-   <div class="category">
+   <div class="category" id="{{category[0]}}" onclick="clickCat(category[0])">
     <h2>{{ category[0] }}</h3>
       <ul>
         {% for post in category[1] %}
@@ -15,3 +15,8 @@ layout: default
   {% endfor %}
 </section>           
 
+<script>
+  function clickCat(id) {
+      document.getElementById(id).classList.toggle('expand');
+  }
+  </script>
