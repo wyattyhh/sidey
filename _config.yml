@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: "https://wyattyhh.github.io/written"
 
-favicon: "favicon.ico"
+favicon: "/favicon.ico"
 
 highlighter: none
 
