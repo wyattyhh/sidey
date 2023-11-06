@@ -1,14 +1,25 @@
 ---
-layout: default
+layout: post
 categories: life
----
+----------------
 
-- 行前准备
+[TOC]: # " "
+
+# Table of contents
+
+- [行前准备](#)
+- [背包](#)
+- [登机箱](#)
+  - [电子收纳包](#)
+  - [洗漱包](#)
+- [行李箱](#)
+
+## 行前准备
 - [ ] 旅行保险
 - [ ] 日本入境([e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
 - [ ] 西瓜卡suica(Apple电子卡)
 
-- 背包
+## 背包
 - [ ] 卡包(visa信用卡+visa储蓄卡+长城冰雪银联卡)
 - [ ] 证件(身份证, 通行证, 护照, 签证)
 - [ ] 登机牌
@@ -20,7 +31,7 @@ categories: life
 - [ ] 小垃圾袋
 - [ ] 笔
 
-- 登机箱
+## 登机箱
 - [ ] 电话卡
 - [ ] airpods
 - [ ] 防晒霜, 润唇膏
@@ -31,11 +42,11 @@ categories: life
 - [ ] u枕
 - [ ] 收纳包, 洗漱包
 
-- 电子收纳包
+### 电子收纳包
 - [ ] 氮化镓转换充电头
 - [ ] 备用数据线(type-c + 手表线 + usb苹果线)
 
-- 洗漱包
+### 洗漱包
 - [ ] 洗面奶
 - [ ] 护肤品
 - [ ] 人工泪液
@@ -44,7 +55,7 @@ categories: life
 - [ ] 备用隐形眼镜*2
 - [ ] 牙套
 
-- 行李箱
+## 行李箱
 - [ ] 防风外套
 - [ ] 一次性内裤
 - [ ] 一次性密封袋
