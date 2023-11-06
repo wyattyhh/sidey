@@ -3,11 +3,14 @@ layout: post
 categories: life
 ---
 ## 目录
+
+- [行前准备](#%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87)
 - [背包](#%E8%83%8C%E5%8C%85)
 - [登机箱](#%E7%99%BB%E6%9C%BA%E7%AE%B1)
 	- [电子收纳包](#%E7%94%B5%E5%AD%90%E6%94%B6%E7%BA%B3%E5%8C%85)
 	- [洗漱包](#%E6%B4%97%E6%BC%B1%E5%8C%85)
 - [行李箱](#%E8%A1%8C%E6%9D%8E%E7%AE%B1)
+
 ## 行前准备
 - [ ] 旅行保险
 - [ ] 日本入境 [e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
