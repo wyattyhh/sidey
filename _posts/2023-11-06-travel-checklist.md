@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: life
-----------------
-
+---
+## TOC
 - [[#背包|背包]]
 - [[#登机箱|登机箱]]
 	- [[#登机箱#电子收纳包|电子收纳包]]
@@ -11,7 +11,7 @@ categories: life
 
 ## 行前准备
 - [ ] 旅行保险
-- [ ] 日本入境([e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
+- [ ] 日本入境 [e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
 - [ ] 西瓜卡suica(Apple电子卡)
 
 ## 背包
