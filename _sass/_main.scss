@@ -14,16 +14,7 @@ body {
 }
 
 nav ul {
-	position: relative;
-	&::after {
-	    content: ' ';
-	    position: absolute;
-	    background: #edf2f7;
-	    height: 100%;
-	    width: 1px;
-	    top: 0;
-	    right: 0;
-	}
+    border-right: 1px solid #edf2f7;
 }
 
 a {
@@ -51,15 +42,7 @@ pre {
 	position: relative;
 	width: fit-content;
 	padding-bottom: 14px;
-	&::after {
-	    content: ' ';
-	    position: absolute;
-	    background: #edf2f7;
-	    height: 1px;
-	    width: calc(100% + 8px);
-	    bottom: 0;
-	    left: -4px;
-	}
+	border-right: 1px solid #edf2f7;
 }
 
 .meta {
