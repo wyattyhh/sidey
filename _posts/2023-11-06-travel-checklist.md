@@ -3,7 +3,6 @@ layout: post
 categories: life
 ---
 **Table of Contents**
-
 1. [行前准备](#%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87)
 1. [背包](#%E8%83%8C%E5%8C%85)
 1. [登机箱](#%E7%99%BB%E6%9C%BA%E7%AE%B1)

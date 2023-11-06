@@ -2,7 +2,6 @@
 	box-sizing:border-box;
 	background-color:inherit;
 	color:inherit;
-	overflow: overlay;
 }
 
 body {
@@ -226,10 +225,10 @@ html {
 
 
 .category {
-	height: 56px;
+	max-height: 56px;
 	position: relative;
-    overflow: hidden;
-    transition: height 0.2s ease-in-out;
+	overflow: hidden;
+	transition: max-height 0.2s ease-in-out;
 		&:after {
 		content: '⠕';
 		position: absolute;
@@ -245,7 +244,7 @@ html {
 	}
 }
 .expand {
-	height: 500px;
+	max-height: 500px;
 	overflow-y: auto;
 	&:after {
 		transform: rotate(0.25turn);
