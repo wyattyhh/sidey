@@ -1,1 +1,10 @@
-{}
+{
+  "templater-obsidian:template/post.md.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ]
+}
