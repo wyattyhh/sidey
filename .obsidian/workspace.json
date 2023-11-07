@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-07-Vue+element.md",
+                "file": "_posts/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-07-Vue+element.md",
+                "file": "_posts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-07-Vue+element.md",
+                "file": "_posts/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-07-Vue+element.md"
+                "file": "_posts/Untitled.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "3834e345cc7f014a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "_posts/2023-11-07-Vue+element.md",
     "_posts/2023-01-01-test.md",
+    "_posts/Untitled.md",
+    "_posts/2023-11-07-Vue+element.md",
+    "Untitled.md",
     "template/post.md.md",
     "_posts/2023-11-01-first-note.md",
     "_posts/2023-11-06-travel-checklist.md",
