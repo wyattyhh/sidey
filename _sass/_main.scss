@@ -39,6 +39,10 @@ pre {
 
 .post h2:first-child, .project h2:first-child, .photo h2:first-child {
 	margin-top: 0;
+	position: relative;
+	width: fit-content;
+	padding-bottom: 14px;
+	border-bottom: 1px solid #edf2f7;
 }
 
 .meta {
