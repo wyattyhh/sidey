@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-07-dev-notes.md",
+                "file": "_posts/2023-11-08-travel-japen-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "20e623ec6f54e957",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-07-dev-notes.md",
+                "file": "_posts/2023-11-08-travel-japen-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-07-dev-notes.md",
+                "file": "_posts/2023-11-08-travel-japen-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-07-dev-notes.md"
+                "file": "_posts/2023-11-08-travel-japen-1.md"
               }
             }
           }
@@ -150,8 +151,9 @@
   },
   "active": "3834e345cc7f014a",
   "lastOpenFiles": [
-    "_posts/2023-01-01-test.md",
     "_posts/2023-11-07-dev-notes.md",
+    "_posts/2023-11-08-travel-japen-1.md",
+    "_posts/2023-01-01-test.md",
     "_posts/2023-11-07-Vue+element.md",
     "Untitled.md",
     "template/post.md.md",
