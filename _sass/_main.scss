@@ -232,7 +232,7 @@ html {
 	max-height: 56px;
 	position: relative;
 	overflow: hidden;
-	transition: max-height 0.2s ease-in-out;
+	// transition: max-height 0.2s ease-in-out;
 		&:after {
 		content: '⠕';
 		position: absolute;
