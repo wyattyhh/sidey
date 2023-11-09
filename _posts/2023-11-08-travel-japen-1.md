@@ -24,7 +24,7 @@ categories: life
 	2. carhartt一路逛
 	3. 始祖鸟
 	4. BAL
-	5. 吃饭 
+	5. 吃饭 kuchibashi modern (需电话预订)
 3. **锦市场**
 4. **鸭川**
 
@@ -46,7 +46,7 @@ categories: life
 4. **京都国立博物馆** 
 5. **锦市场**
 6. **二条城**
-7. 吃饭 雷三条大宫(烧鸟)
+7. 吃饭 雷三条大宫(烧鸟) (无需预定)
 8. **下鸭神社**（可选）
 9. **鹿苑寺**（可选）
 
@@ -75,7 +75,7 @@ categories: life
 
 ## 11.16 day6 神户
 1. **美利坚公园**
-2. **mouriya** Finest sirloin steak（A5）+ Kobe steak
+2. **mouriya** (已预定) Finest sirloin steak（A5）+ Kobe steak
 3. **有马温泉** (可选)
 
 ## 11.17 day7 大阪
