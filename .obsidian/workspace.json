@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/2023-11-06-travel-checklist.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "20e623ec6f54e957",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/2023-11-06-travel-checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/2023-11-06-travel-checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md"
+                "file": "_posts/2023-11-06-travel-checklist.md"
               }
             }
           }
@@ -149,7 +148,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ad8f49e767d01c08",
+  "active": "149d2ab871e475ad",
   "lastOpenFiles": [
     "_posts/2023-11-08-travel-japen-1.md",
     "_posts/2023-11-07-dev-notes.md",
