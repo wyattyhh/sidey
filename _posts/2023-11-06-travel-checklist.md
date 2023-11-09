@@ -13,6 +13,7 @@ categories: life
 ## 行前准备
 - [ ] 旅行保险
 - [ ] 签证 [e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
+- [ ] 日本入境二维码 [vjw](https://www.vjw.digital.go.jp/main/#/vjwppr001)
 - [ ] 西瓜卡suica(Apple电子卡)
 
 ## 背包
