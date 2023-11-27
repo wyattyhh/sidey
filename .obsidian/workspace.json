@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/git.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md",
+                "file": "_posts/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-08-travel-japen-1.md"
+                "file": "_posts/git.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "ad8f49e767d01c08",
   "lastOpenFiles": [
-    "_posts/2023-11-06-travel-checklist.md",
-    "_posts/2023-11-08-travel-japen-1.md",
     "_posts/2023-11-07-dev-notes.md",
+    "_posts/git.md",
+    "_posts/2023-11-08-travel-japen-1.md",
+    "_posts/2023-11-06-travel-checklist.md",
     "_posts/2023-01-01-test.md",
     "_posts/2023-11-07-Vue+element.md",
     "Untitled.md",
