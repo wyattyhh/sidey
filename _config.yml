@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: "https://wyattyhh.github.io/written"
 
-highlighter: none
+highlighter: Rouge
 
 exclude:
   - .jekyll-cache
