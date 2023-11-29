@@ -17,6 +17,10 @@ permalink: pretty
 baseurl: "https://wyattyhh.github.io/written"
 
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 highlighter: rouge
 
 exclude:
