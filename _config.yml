@@ -18,7 +18,6 @@ baseurl: "https://wyattyhh.github.io/written"
 
 markdown: kramdown
 highlighter: rouge
-    input: GFM
 
 exclude:
   - .jekyll-cache
