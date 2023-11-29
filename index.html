@@ -4,8 +4,8 @@ layout: default
 
 <section class="posts">
   {% for category in site.categories %}
-   <div class="category expand" id="{{category[0]}}" onclick="clickCat(e, this)">
-    <h3>{{ category[0] }}</h3>
+   <div class="category expand" id="{{category[0]}}">
+    <h3 onclick="clickCat(this)">{{ category[0] }}</h3>
       <ul>
         {% for post in category[1] %}
         <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
@@ -16,9 +16,7 @@ layout: default
 </section>           
 
 <script>
-  function clickCat(e, el) {
-    if (e.target.classList.contains('category')) {
-      el.classList.toggle('expand');
-    }
+  function clickCat(el) {
+    el.parentNode.classList.toggle('expand');
   }
   </script>
