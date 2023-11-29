@@ -6,6 +6,13 @@ title: Search
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="search...">
+{% assign tags = site.tags | sort %}
+<div class="tag-block">
+  {% for tag in tags %}
+  <div>{{tag[0]}}</div>
+  {% endfor %}
+</div>
+
 <ul id="results-container"></ul>
 </div>
 
@@ -21,7 +28,7 @@ SimpleJekyllSearch({
   searchResultTemplate: '<li><a href="{url}" title="{description}">{title}</a></li>',
   noResultsText: 'No results found',
   limit: 10,
-  fuzzy: false,
+  fuzzy: true,
   exclude: ['Welcome']
 })
 </script>

@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: life
+tags: [japen, travel]
 ---
 
 # 日本旅行计划
