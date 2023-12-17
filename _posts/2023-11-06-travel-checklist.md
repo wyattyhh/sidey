@@ -10,6 +10,9 @@ categories: life
 	1. [洗漱包](#%E6%B4%97%E6%BC%B1%E5%8C%85)
 1. [行李箱](#%E8%A1%8C%E6%9D%8E%E7%AE%B1)
 
+## Want to go
+- [ ] PARADISE BORACAY PHILIPPINES
+
 ## 行前准备
 - [ ] 旅行保险
 - [ ] 签证 [e-visa](https://www.evisa.mofa.go.jp/notification/login?access=Xa1D8vFSpkj67yWRPNyYE8KjbEvJQGU8)
