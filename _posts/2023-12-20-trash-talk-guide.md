@@ -11,6 +11,8 @@ I'm gonna plant a tree in your mom's ass and then fuck your sister in its shade.
 Your mama's so fat her patronus is a cake.
 Your mama's so fat, the Sorting Hat sorted her into the House of Pancakes.
 
+### hurting
+I hope you're better at being a dad than you are at this game, old man.
 ### opinion
 You're entitled to your opinion, but your opinion is wrong.
 Yeah, well, that's just like, your opinion, man,
