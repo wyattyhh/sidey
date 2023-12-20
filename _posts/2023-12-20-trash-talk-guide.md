@@ -14,12 +14,13 @@ My mom's in an urn and it's still the wettest pussy you've ever had.
 ### hurting
 I hope you're better at being a dad than you are at this game, old man.
 I wish you’d lose weight so that there’s less of you
+How is your sister?
 ### opinion
 You're entitled to your opinion, but your opinion is wrong.
 Yeah, well, that's just like, your opinion, man,
 If I wanted to hear your opinion, I'd give it to you.
 I'd agree with you, but then we'd both be wrong.
-### discriptions
+### descriptions
 peanut butter and cum sandwich
 ### funny
 I used to fuck guys like you in prison
