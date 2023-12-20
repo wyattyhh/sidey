@@ -7,6 +7,7 @@ categories: life
 
 ### against racism
 - cracker, beaner, whitetrash, kraut, modder
+111
 ### about ur mom
 - I'm gonna plant a tree in your mom's ass and then fuck your sister in its shade.
 - Your mama's so fat her patronus is a cake.
