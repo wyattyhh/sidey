@@ -21,4 +21,6 @@ I used to fuck guys like you in prison
 You are the reason they put instructions on shampoo.
 You suck more than a suck machine set on 'suck a lot'.
 You could suckstart a shopvac.
-
+Man, you're like school on Sunday. No Class.
+You can pay for school, but you can't buy class.
+i'll fuck you 'til you love me, faggot
