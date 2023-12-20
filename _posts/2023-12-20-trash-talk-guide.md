@@ -2,6 +2,10 @@
 layout: post
 categories: life
 ---
+### generators
+- https://www.rappad.co/insult-generator
+- 
+
 ### about ur mom
 I'm gonna plant a tree in your mom's ass and then fuck your sister in its shade.
 Your mama's so fat her patronus is a cake.
@@ -15,4 +19,6 @@ I'd agree with you, but then we'd both be wrong.
 ### funny one
 I used to fuck guys like you in prison
 You are the reason they put instructions on shampoo.
+You suck more than a suck machine set on 'suck a lot'.
+You could suckstart a shopvac.
 
