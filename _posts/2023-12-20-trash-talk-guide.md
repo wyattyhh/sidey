@@ -24,3 +24,9 @@ You could suckstart a shopvac.
 Man, you're like school on Sunday. No Class.
 You can pay for school, but you can't buy class.
 i'll fuck you 'til you love me, faggot
+You're the reason that I'm pro-choice.
+You were the inspiration for birth control
+### teammate
+ARE YOUR FUCKING EYES PAINTED ON?
+did you just get your damn goldfish and let it flop all over your controller or something?
+don't worry, no one is good on their first game
