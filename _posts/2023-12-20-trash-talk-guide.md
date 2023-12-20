@@ -10,7 +10,7 @@ categories: life
 I'm gonna plant a tree in your mom's ass and then fuck your sister in its shade.
 Your mama's so fat her patronus is a cake.
 Your mama's so fat, the Sorting Hat sorted her into the House of Pancakes.
-
+My mom's in an urn and it's still the wettest pussy you've ever had.
 ### hurting
 I hope you're better at being a dad than you are at this game, old man.
 ### opinion
@@ -18,7 +18,11 @@ You're entitled to your opinion, but your opinion is wrong.
 Yeah, well, that's just like, your opinion, man,
 If I wanted to hear your opinion, I'd give it to you.
 I'd agree with you, but then we'd both be wrong.
-### funny one
+
+### discriptions
+peanut butter and cum sandwich
+
+### funny
 I used to fuck guys like you in prison
 You are the reason they put instructions on shampoo.
 You suck more than a suck machine set on 'suck a lot'.
@@ -32,3 +36,5 @@ You were the inspiration for birth control
 ARE YOUR FUCKING EYES PAINTED ON?
 did you just get your damn goldfish and let it flop all over your controller or something?
 don't worry, no one is good on their first game
+Looks like he is trying to play with oven mits on
+Your teammate must be a garbage man because he's great at carrying trash
