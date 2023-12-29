@@ -12,6 +12,7 @@ categories: book
 1. [ES.Next & Beyond](#esnext--beyond)
 
 ## [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
+### What's in an Interpretation
 
 
 ## [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
