@@ -12,8 +12,18 @@ categories: book
 1. [ES.Next & Beyond](#esnext--beyond)
 
 ## [Get Started](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md)
+
+
 ## [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md)
+
+
 ## [Objects & Classes](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/objects-classes/README.md)
+
+
 ## [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md)
+
+
 ## Sync & Async
+
+
 ## ES.Next & Beyond
