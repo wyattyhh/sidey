@@ -14,4 +14,6 @@ categories: book
 ### The Value of Self-Testing Code
 > Make sure all tests are fully **automatic** and that they check their own results.
 
-Spend your time to wright self-testing code could save
+**Spend your time to write self-testing code! **
+
+>Soon, I began to notice my productivity had shot upward. I realized that I wasn’t spending so much time debugging. If I added a bug that was caught by a previous test, it would show up as soon as I ran that test. The test had worked before, so I would know that the bug was in the work I had done since I last tested.
