@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md",
+                "file": "template/post.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5,
-    "collapsed": true
+    "width": 259.5
   },
   "right": {
     "id": "20e623ec6f54e957",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md",
+                "file": "template/post.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md",
+                "file": "template/post.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md"
+                "file": "template/post.md.md"
               }
             }
           }
@@ -151,8 +150,8 @@
   },
   "active": "ad8f49e767d01c08",
   "lastOpenFiles": [
+    "_posts/2024-01-03-2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md",
     "_posts/2023-12-19-Refactoring.md",
-    "_posts/2023-12-29-You-Dont't-Know-Js-Yet-2nd-Editon.md",
     "_posts/2023-11-27-git.md",
     "_posts/2023-12-20-insults-in-game.md",
     "_posts/2023-11-06-travel-checklist.md",
