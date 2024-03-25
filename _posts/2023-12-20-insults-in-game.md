@@ -5,6 +5,8 @@ categories: life
 ### generators
 - https://www.rappad.co/insult-generator
 
+Ofay, Redneck, Cracker, White trash, Honky.
+
 ### against racism
 cracker, beaner, whitetrash, kraut, modder
 ### about ur mom
